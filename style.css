@@ -64,6 +64,9 @@ input[type="radio"] {
 input[type="file"] {
     margin-top: 10px;
 }
+input[type="color"]{
+    padding: 1px;
+}
 
 button{
     width: 30%;
